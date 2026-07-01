@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0045/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大正句王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0045.xml
+    old_id: T01n0045
+hash: sha256:e840ca7bb3a2703848ce0f3c9d061d669d73064a24f0fb6953f88d4b5748acd5

@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6a0045/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0045/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大正句王經
+  identifiers:
+    krp: KR6a0045
+    cbeta: T01n0045
+    cbeta_old_id: T01n0045
+    authorityid: CA0000720
+    json_key: T0045
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0045.xml
+    old_id: T01n0045
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0045_000-T.yaml, hash: 'sha256:e840ca7bb3a2703848ce0f3c9d061d669d73064a24f0fb6953f88d4b5748acd5'}
+  - {seq: 1, filename: KR6a0045_001-T.yaml, hash: 'sha256:9d56e20c4a4c277ac5bf23fa0fc685961f096f4db1851fc8c07856ebbf6aa3ce'}
+  - {seq: 2, filename: KR6a0045_002-T.yaml, hash: 'sha256:ae004dd17380818971d7d8b28a067e9da249adf507be0e263284c3f05fab313e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0045_000-T.markers.yaml, hash: 'sha256:cfecc6fb7f24cd4f7c979b7b5989290831506de40f59eeb95b2d357477abcdc1'}
+  - {seq: 1, role: markers, filename: assets/KR6a0045_001-T.markers.yaml, hash: 'sha256:408dd103146b0e05ea81c6b20963ffc8a30ea3d16341a28c9ccce2bd00c6cbd9'}
+  - {seq: 2, role: markers, filename: assets/KR6a0045_002-T.markers.yaml, hash: 'sha256:3efa7390535967ae199b0e3128aa0daf9077df1df53bf734d7212b6dbc23178b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0045_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3396
+  label: 大正句王經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0045_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3076
+  label: 大正句王經卷下
+  type: juan
+  level: 1
+hash: sha256:a01dbd0e5fad3890043029ba8382619ca30253ea9ed1d6b7243862a501122d92
