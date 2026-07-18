@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6a0045_001-T.yaml, hash: 'sha256:9d56e20c4a4c277ac5bf23fa0fc685961f096f4db1851fc8c07856ebbf6aa3ce'}
   - {seq: 2, filename: KR6a0045_002-T.yaml, hash: 'sha256:ae004dd17380818971d7d8b28a067e9da249adf507be0e263284c3f05fab313e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0045_000-T.markers.yaml, hash: 'sha256:cfecc6fb7f24cd4f7c979b7b5989290831506de40f59eeb95b2d357477abcdc1'}
+  - {seq: 0, role: markers, filename: assets/KR6a0045_000-T.markers.yaml, hash: 'sha256:1c9da6ff02102cc9518dc5de008565033c3884e31d6763783b7b5f07477ceea8'}
   - {seq: 1, role: markers, filename: assets/KR6a0045_001-T.markers.yaml, hash: 'sha256:408dd103146b0e05ea81c6b20963ffc8a30ea3d16341a28c9ccce2bd00c6cbd9'}
   - {seq: 2, role: markers, filename: assets/KR6a0045_002-T.markers.yaml, hash: 'sha256:3efa7390535967ae199b0e3128aa0daf9077df1df53bf734d7212b6dbc23178b'}
 table_of_contents:
@@ -47,4 +47,4 @@ table_of_contents:
   label: 大正句王經卷下
   type: juan
   level: 1
-hash: sha256:a01dbd0e5fad3890043029ba8382619ca30253ea9ed1d6b7243862a501122d92
+hash: sha256:c5a2a5cabdbfc6632a6be7c001cacc1af92cdf74573f4427823f5ca8dd279c98

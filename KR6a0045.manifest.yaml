@@ -34,7 +34,7 @@ assets:
   - {seq: 1, filename: KR6a0045_001.yaml, hash: 'sha256:73753fb1f6ee9d31492f87a5725afc0cdb8d882faf215750d0968727e15268fc'}
   - {seq: 2, filename: KR6a0045_002.yaml, hash: 'sha256:4ab0f342a0a0bd532044d7c5ecb81af4f7ecfef5c417a73cf60d83fe3cfa423d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0045_000.markers.yaml, hash: 'sha256:806f44f8641a8ad729e274f0ef9e72df0cdbb8a3ae370451e887e8855336032b'}
+  - {seq: 0, role: markers, filename: assets/KR6a0045_000.markers.yaml, hash: 'sha256:a5418896100dd571037aa5aa7bc3f3d0d5b923b1e510331c0ebe947a66499feb'}
   - {seq: 1, role: markers, filename: assets/KR6a0045_001.markers.yaml, hash: 'sha256:6213eb3bbcc2afd1a919a440e8ad9e4652ef11dd17aa740ca7974864e5552dbd'}
   - {seq: 2, role: markers, filename: assets/KR6a0045_002.markers.yaml, hash: 'sha256:6ddc3c673ebbdf07217fba4be110cb4bbc8d98139af7faa4a27861cd40477aeb'}
 table_of_contents:
@@ -58,7 +58,7 @@ table_of_contents:
   label: 大正句王經卷下
   type: juan
   level: 1
-hash: sha256:559b74a28c5798f2c491ea43a46b65545d36d5f0698d23ad588fa0d4e19c787b
+hash: sha256:6a974fdc4b9b60d4a5d72417cb685051509414cd7a3b8c3443ee3afa381c67e2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
